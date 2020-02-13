@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FortuneTeller</string>
+    <string name="textViewMainTitle">Fortune Teller App</string>
+    <string name="buttonForRevealFortune">Click To Reveal Your Fortune</string>
+    <string name="textViewFortuneTitle">Here\'s Your Fortune</string>
+    <string name="buttonForReturnHome">Click To Return To Main Page</string>
+</resources>
